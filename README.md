@@ -2,7 +2,7 @@
 
 Intelligent warehouse inventory management system with real-time tracking, spatial mapping, smart alerts, and barcode scanning.
 
-**Live Demo**: [Deploy to Vercel to get a live link]
+**Live Demo**: [https://corvus-warehouse.vercel.app](https://corvus-warehouse.vercel.app)
 
 ## Features
 
